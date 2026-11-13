@@ -37,10 +37,3 @@
 | [**selenium-ecommerce-framework**](https://github.com/ritwiksingh26/selenium-ecommerce-framework) | UI + API automation framework for an e-commerce site: 26 tests, Page Object Model, parallel Chrome/Firefox CI, Allure & Extent reports, SonarCloud quality gate | Java 21, Selenium 4, TestNG, RestAssured, GitHub Actions, Jenkins, Docker |
 | [**PetStoreAPIAutomation**](https://github.com/ritwiksingh26/PetStoreAPIAutomation) | REST API test suite for the Swagger Petstore (User & Store endpoints) with data-driven tests from Excel | Java, RestAssured, TestNG, Apache POI, Extent Reports |
 | [**Automation_CICD**](https://github.com/ritwiksingh26/Automation_CICD) | Selenium + Cucumber BDD framework for an e-commerce checkout flow, run from Jenkins | Java, Selenium, Cucumber, TestNG, Jenkins |
-
----
-
-### 📊 GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ritwiksingh26&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwiksingh26&layout=compact&hide_border=true)
